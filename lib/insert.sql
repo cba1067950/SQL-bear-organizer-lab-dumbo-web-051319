@@ -1,0 +1,1 @@
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Hannah", 1, "Tabby");
